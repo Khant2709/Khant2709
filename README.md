@@ -42,11 +42,16 @@ Backend — **NestJS / Node.js / Express**
 
 ---
 
+### 🟩 Граф активности
+
+![GitHub Activity Graph](https://github-readme-activity-graph-ashen-one.vercel.app/graph?username=Khant2709&bg_color=0d1117&color=00b300&line=00b300&point=ffffff&area=true&hide_border=true&count_private=true)
+
+---
+
 ### 🔗 Контакты
 
-📫 **Email:** [добавь свою почту]  
-🌐 **Портфолио / сайт:** [добавь ссылку]  
-🧩 **Telegram:** [добавь ник]
+📫 **Email:** khant2709@gmail.com  
+🧩 **Telegram:** @Vladislav_khantai
 
 ---
 
