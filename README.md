@@ -50,9 +50,15 @@ Backend — **NestJS / Node.js / Express**
 
 ### 🔗 Контакты
 
-📫 **Email:** khant2709@gmail.com  
-🧩 **Telegram:** @Vladislav_khantai
+📫 **Email:** [khant2709@gmail.com](mailto:khant2709@gmail.com)
+🧩 **Telegram:** [@Vladislav_khantai](https://t.me/Vladislav_khantai)
 
 ---
+
+### ⚙️ Инструменты и технологии
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nestjs,nodejs,express,postgresql,nginx,docker,linux,git,github,figma,vscode" />
+</p>
 
 > _"Код должен быть читаемым, инфраструктура — надёжной, а продукт — быстрым."_
