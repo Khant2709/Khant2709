@@ -35,9 +35,10 @@ Backend — **NestJS / Node.js / Express**
 
 ### 📊 GitHub статистика
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Khant2709&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant2709&layout=compact&theme=github_dark&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats-rouge-iota.vercel.app/api?username=Khant2709&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats-rouge-iota.vercel.app/api/top-langs/?username=Khant2709&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khant2709&theme=github-dark&hide_border=true)
+
 
 ---
 
