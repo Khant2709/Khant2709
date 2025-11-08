@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Vladislav / Khant2709
 
-<!--
-**Khant2709/Khant2709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack-разработчик.  
+Frontend — **Next.js / React / TypeScript**  
+Backend — **NestJS / Node.js / Express**  
+Работаю с архитектурой, DevOps, автоматизацией и SEO-оптимизацией.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Стек
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+
+---
+
+### 🧠 Что делаю
+
+- Разворачиваю и настраиваю серверы под продакшн  
+- Настраиваю Nginx, SSL, CI/CD, Fail2Ban, Firewall  
+- Оптимизирую проекты на **Next.js** и **NestJS**  
+- Проектирую REST API и SSR-архитектуры  
+- Работаю с облачными VPS и собственными DevOps-инструментами  
+
+---
+
+### 📊 GitHub статистика
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Khant2709&show_icons=true&theme=github_dark&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant2709&layout=compact&theme=github_dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khant2709&theme=github-dark&hide_border=true)
+
+---
+
+### 🔗 Контакты
+
+📫 **Email:** [добавь свою почту]  
+🌐 **Портфолио / сайт:** [добавь ссылку]  
+🧩 **Telegram:** [добавь ник]
+
+---
+
+> _"Код должен быть читаемым, инфраструктура — надёжной, а продукт — быстрым."_
